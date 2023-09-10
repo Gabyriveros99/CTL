@@ -5,7 +5,7 @@ Before: <link rel="stylesheet" type="text/css" href="https://suffolklitlab.org/h
 <h2 style="text-align:center;">DACA "Flowchart"</h2>
 <p><b>This is a <a href="https://www.codingthelaw.org/#mission">class project</a>. You should not rely on it as a source of legal information!</b></p>
 <p>Answer the following questions to see if someone qualifies for DACA.</p>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <HTML xmlns="http://www.w3.org/1999/xhtml"
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="http://www.facebook.com/2008/fbml">
